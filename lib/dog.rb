@@ -6,7 +6,7 @@ class Dog
     @name = name
   end
   def breed
-    return @job
+    return @breed
   end
   def breed=(breed)
     @breed = breed
